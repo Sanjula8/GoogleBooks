@@ -1,10 +1,8 @@
 # Google Books Search
 
-# Deployment
+## Deployment
 
 [Heroku](https://afternoon-bayou-81413.herokuapp.com/)
-
-# User Directory
 
 [![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
